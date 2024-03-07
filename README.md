@@ -20,8 +20,5 @@ its robustness and Verbose nature , Security , Scalablity , Compatibility
 we will use Java jdk (Java Development Kit) we need to install it into out compiter
 you can install it by this site
 
-<<<<<<< HEAD
+
 [Java jdk download link site]("https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
-=======
-[Java jdk download link site]("https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi")
->>>>>>> origin/master
